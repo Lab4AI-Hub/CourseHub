@@ -46,15 +46,15 @@
       <img src="【请替换为课程图片URL】" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
-      <h3 style="margin-top: 0px; margin-bottom: 5px;">【请填写课程标题】</h3> 
+      <h3 style="margin-top: 0px; margin-bottom: 5px;">【课程标题】</h3> 
       <p style="color: #57606a; font-size: 0.9em; margin-top: 0px;">
-        <strong>课时：</strong> 【例如：约 16 课时】
+        <strong>课时：</strong> 【】
       </p>
       <p>
-        <strong>简介：</strong>【请在此处填写您的课程简介】
+        <strong>简介：</strong>【课程简介】
       </p>
       <p>
-        <strong>核心技能：</strong> <code>【技能一】</code> <code>【技能二】</code>
+        <strong>核心技能：</strong> <code>【】</code> <code>【】</code>
       </p>
       <p align="left" style="margin-top: 25px;">
         <a href="【请替换为平台课程链接】">
