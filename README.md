@@ -16,11 +16,62 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
- <img src="【图片URL】" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/lfcourse.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
-      <h2 style="margin-top: 0px; margin-bottom: 10px;">
-从零开始玩转LLaMA Factory 大模型微调</h2>
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">从零开始玩转LLaMA Factory 大模型微调</h3>
+       <a href="https://github.com/hiyouga/LLaMA-Factory">
+          <img src="https://img.shields.io/badge/合作项目-LLaMA%20Factory-blueviolet?style=social&logo=github" alt="LlamaFactory Project">
+        </a> 
+      <p>
+         <strong>课时：</strong> 36
+      </p>
+      <p>
+         <strong>简介：</strong>由 LLaMA Factory 开源项目作者郑耀威博士亲自授课，本课程带您从零开始，一站式精通大模型微调的核心技能，并提供配套算力与官方结课证书。
+      </p>
+      <p>
+  <strong>核心技能：</strong> <code>LLaMA Factory</code> <code>模型微调</code> <code>数据驾驭力</code> <code>参数调优</code>
+      </p>
+      <p align="left" style="margin-top: 25px;">
+        <a href="https://www.lab4ai.cn/course/detail?id=7c13e60f6137474eb40f6fd3983c0f46">
+       <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
+        </a>
+      </p>
+    </td>
+  </tr>  
+  
+<table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: middle;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/Attention%20is%20all%20you%20Need_cover.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+    </td>
+    <td width="75%" style="padding-left: 20px; vertical-align: top;">
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">《Attention Is All You Need》论文精读</h3>
+      <p>
+         <strong>课时：</strong> 20
+      </p>
+      <p>
+         <strong>简介：</strong>本课程将带您深入解读AI大模型时代的奠基之作——《Attention Is All You Need》。您将学习其核心的Transformer架构，理解它如何仅凭“自注意力机制”就彻底改变了NLP领域，并催生了GPT等现代大语言模型。
+      </p>
+      <p>
+  <strong>核心技能：</strong> <code>自注意力机制</code> <code>模型微调</code> <code>数据驾驭力</code> <code>参数调优</code>
+      </p>
+      <p align="left" style="margin-top: 25px;">
+        <a href="https://www.lab4ai.cn/course/detail?id=5916fa8db08548dc908b6c3f35a7e295">
+       <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  
+<table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: middle;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/lfcourse.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+    </td>
+    <td width="75%" style="padding-left: 20px; vertical-align: top;">
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">从零开始玩转LLaMA Factory 大模型微调</h3>
       <p>
          <strong>课时：</strong> 【】
         <a href="https://github.com/hiyouga/LLaMA-Factory">
@@ -40,35 +91,34 @@
       </p>
     </td>
   </tr>
-<table width="100%" style="border: 1px solid #d0d7de; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+
+  
+<table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
-      <img src="【请替换为课程图片URL】" alt="Course Image" width="200" style="border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/lfcourse.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
-      <h3 style="margin-top: 0px; margin-bottom: 5px;">【课程标题】</h3> 
-      <p style="color: #57606a; font-size: 0.9em; margin-top: 0px;">
-        <strong>课时：</strong> 【】
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">从零开始玩转LLaMA Factory 大模型微调</h3>
+      <p>
+         <strong>课时：</strong> 【】
+        <a href="https://github.com/hiyouga/LLaMA-Factory">
+          <img src="https://img.shields.io/badge/合作项目-LLaMA%20Factory-blueviolet?style=social&logo=github" alt="LlamaFactory Project">
+        </a>
       </p>
       <p>
-        <strong>简介：</strong>【课程简介】
+         <strong>简介：</strong>由 LLaMA Factory 开源项目作者郑耀威博士亲自授课，本课程带您从零开始，一站式精通大模型微调的核心技能，并提供配套算力与官方结课证书。
       </p>
       <p>
-        <strong>核心技能：</strong> <code>【】</code> <code>【】</code>
+  <strong>核心技能：</strong> <code>LLaMA Factory</code> <code>模型微调</code> <code>数据驾驭力</code> <code>参数调优</code>
       </p>
       <p align="left" style="margin-top: 25px;">
-        <a href="【请替换为平台课程链接】">
-          <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
+        <a href="https://www.lab4ai.cn/course/detail?id=7c13e60f6137474eb40f6fd3983c0f46">
+       <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
         </a>
       </p>
     </td>
   </tr>
-</table>
+  
 ---
-<p align="center">
-  <strong><a href="https://github.com/Lab4AI-Hub">Lab4AI-Hub 主页</a></strong>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong><a href="【社区讨论区链接】">社区讨论区</a></strong>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>想成为贡献者？请联系我们！</strong>
-</p>
+
