@@ -16,7 +16,7 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
- <img src="https://github.com/Lab4AI-Hub/assets/blob/main/lfcourse.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/lfcourse.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
       <h3 style="margin-top: 0px; margin-bottom: 10px;">从零开始玩转LLaMA Factory 大模型微调</h3>
@@ -44,7 +44,7 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
- <img src="https://github.com/Lab4AI-Hub/assets/blob/main/Attention%20is%20all%20you%20Need_cover.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/Attention%20is%20all%20you%20Need_cover.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
       <h3 style="margin-top: 0px; margin-bottom: 10px;">《Attention Is All You Need》论文精读</h3>
@@ -69,7 +69,7 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
- <img src="https://github.com/Lab4AI-Hub/assets/blob/main/VLAcover.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/VLAcover.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
       <h3 style="margin-top: 0px; margin-bottom: 10px;">端到端与VLA自动驾驶小班课</h3>
@@ -94,7 +94,7 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
- <img src="https://github.com/Lab4AI-Hub/assets/blob/main/deepseekcourse.jpg" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/deepseekcourse.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
       <h3 style="margin-top: 0px; margin-bottom: 10px;">Deepseek部署和微调</h3>
