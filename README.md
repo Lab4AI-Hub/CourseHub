@@ -1,7 +1,7 @@
 <h1 align="center">Lab4AI 精品课程中心 (CourseHub)</h1>
 
 <p align="top">
-  欢迎来到 Lab4AI 的课程学习中心。大模型实验室的AI课程，涉及NLP、Rob、Agent等多个热门主题，涵盖时Deepseek、深度学习专项课程、机器学习、论文解读、LLama-Factory、多模态大模型等多类型，用系统化实战教学让AI能力轻松提升。课程与平台云端算力深度结合，助你高效掌握从理论到应用的AI技能。
+  欢迎来到 Lab4AI 的课程学习中心。大模型实验室的AI课程，涉及NLP、Rob、Agent等多个热门主题，涵盖时深度学习专项课程、Deepseek、机器学习、论文解读、LLama-Factory、多模态大模型等多类型，用系统化实战教学让AI能力轻松提升。课程与平台云端算力深度结合，助你高效掌握从理论到应用的AI技能。
 </p>
 <p align="center">
   <strong>我们的理念：最好的学习，是理论与实践的即时互动。</strong>
