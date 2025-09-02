@@ -16,22 +16,22 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
-      <img src="【LlamaFactory课程图片URL】" alt="LlamaFactory Course" width="200" style="border-radius: 8px;">
+ <img src="【图片URL】" alt="Course Image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
       <h2 style="margin-top: 0px; margin-bottom: 10px;">
 从零开始玩转LLaMA Factory 大模型微调</h2>
       <p>
+         <strong>课时：</strong> 【】
         <a href="https://github.com/hiyouga/LLaMA-Factory">
           <img src="https://img.shields.io/badge/合作项目-LLaMA%20Factory-blueviolet?style=social&logo=github" alt="LlamaFactory Project">
-          <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social" alt="LlamaFactory Stars">
         </a>
       </p>
       <p>
-        简介：本课程由 <strong>Lab4AI</strong> 与知名开源项目 <strong>LlamaFactory 作者 <a href="https://github.com/hiyouga">hiyouga</a></strong> 联合开发。您将学习到如何利用这一业界领先的LLM微调框架，在Lab4AI平台上一站式完成数据准备、模型微调、评估与部署的全过程。
+         <strong>简介：</strong>由 LLaMA Factory 开源项目作者郑耀威博士亲自授课，本课程带您从零开始，一站式精通大模型微调的核心技能，并提供配套算力与官方结课证书。
       </p>
       <p>
-        <strong>核心技能：</strong> <code>LLM</code> <code>SFT</code> <code>LoRA</code> <code>模型部署</code>
+  <strong>核心技能：</strong> <code>LLaMA Factory</code> <code>模型微调</code> <code>数据驾驭力</code> <code>参数调优</code>
       </p>
       <p align="left" style="margin-top: 25px;">
         <a href="https://www.lab4ai.cn/course/detail?id=7c13e60f6137474eb40f6fd3983c0f46">
