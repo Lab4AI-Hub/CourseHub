@@ -11,7 +11,7 @@
 
 ### 📚 精品课程列表 (Featured Courses)
 
-这里汇集了我们精心制作的各类AI实战课程，请选择您感兴趣的课题开始学习！
+这里汇集了精心制作的各类AI实战课程，请选择您感兴趣的课题开始学习！
 
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
