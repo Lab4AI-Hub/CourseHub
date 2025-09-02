@@ -129,5 +129,5 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="【社区讨论区链接】"><strong>社区讨论区</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="【您的微信二维码图片URL】" target="_blank"><strong>联系我们</strong></a>
+  <a href="https://github.com/Lab4AI-Hub#%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC--connect-with-us" target="_blank"><strong>联系我们</strong></a>
 </p>
