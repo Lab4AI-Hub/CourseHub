@@ -40,7 +40,31 @@
       </p>
     </td>
   </tr>  
-  
+
+  <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: middle;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/AIAGENT.png" alt="Course Image" width="200" style="border-radius: 8px;">
+    </td>
+    <td width="75%" style="padding-left: 20px; vertical-align: top;">
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">从零开始玩转 LangGraph 与 Langfuse：AI Agent 全栈开发、部署与高效评估</h3>
+      <p>
+         <strong>课时：</strong> 51
+      </p>
+      <p>
+         <strong>简介：</strong>本课程基于LangGraph和Langfuse技术栈，为学习者提供从基础到高级的Agent开发完整路径。课程严格按照现有代码结构设计，每个章节都对应具体的实验代码，确保理论与实践紧密结合。课程核心亮点：主流技术栈+DeepResearch智能体实战+配套100元H卡算力。
+      </p>
+      <p>
+  <strong>核心技能：</strong> <code>LangGraph框架</code> <code>熟练运用Langfuse</code> <code>Agent架构</code> <code>生产部署能力</code>
+      </p>
+      <p align="left" style="margin-top: 25px;">
+        <a href="https://www.lab4ai.cn/course/detail?id=136be37c21924633960efc306c788b6d">
+       <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
+        </a>
+      </p>
+    </td>
+  </tr>
+
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
