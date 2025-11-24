@@ -68,6 +68,30 @@
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="25%" align="center" style="vertical-align: middle;">
+ <img src="https://github.com/Lab4AI-Hub/assets/blob/main/education_AI.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
+    </td>
+    <td width="75%" style="padding-left: 20px; vertical-align: top;">
+      <h3 style="margin-top: 0px; margin-bottom: 10px;">AI教师助手实战课：从智能备课到课堂互动</h3>
+      <p>
+         <strong>课时：</strong> 20
+      </p>
+      <p>
+         <strong>简介：</strong>本课程通过两个真实教学场景——“教案助手 Agent”和“互动助手 Agent”的视频案例，带你了解AI如何帮助教师提升教学设计与课堂互动效率。课程结合AI Agent的提示词逻辑与教学设计理论，展示如何在课堂前、中、后环节中使用智能助手实现“自动生成—实时互动—数据反馈”的完整闭环。
+      </p>
+      <p>
+  <strong>核心技能：</strong> <code>AI与智慧教学</code> <code>教案Agent</code> <code>AI赋能教育</code> 
+      </p>
+      <p align="left" style="margin-top: 25px;">
+        <a href="https://www.lab4ai.cn/course/detail?id=d6f65b347cfa4debafa8c23d8bd208dd">
+       <img src="https://img.shields.io/badge/前往课程-007BFF?style=for-the-badge&logo=rocket&logoColor=white" alt="前往课程">
+        </a>
+      </p>
+    </td>
+  </tr>
+
+<table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: middle;">
  <img src="https://github.com/Lab4AI-Hub/assets/blob/main/Attention%20is%20all%20you%20Need_cover.jpg" alt="Course Image" width="200" style="border-radius: 8px;">
     </td>
     <td width="75%" style="padding-left: 20px; vertical-align: top;">
@@ -88,7 +112,6 @@
       </p>
     </td>
   </tr>
-
   
 <table width="100%" style="border: 2px solid #8957e5; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <tr>
